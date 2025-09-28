@@ -17,5 +17,11 @@ Here are some ideas to get you started:
 
 
 ## 📊 LeetCode Stats  
+
+### Option 1 – LeetCard (auto-update, có contest rating + heatmap)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dhlinhdn00?theme=dark&ext=contest&ext=heatmap)
+
+### Option 2 – LeetCode Stats Card (auto-update, solved breakdown + rating)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=dhlinhdn00&theme=dark)
+
 
