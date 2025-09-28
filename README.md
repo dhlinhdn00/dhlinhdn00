@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 📊 Programming
+## Programming
 
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dhlinhdn00?theme=dark&ext=heatmap)
