@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-## 📊 LeetCode Stats  
+## 📊 Programming
 
+### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dhlinhdn00?theme=dark&ext=heatmap)
+
+### Codeforces
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=dhlinhdn00&theme=dark)
+
