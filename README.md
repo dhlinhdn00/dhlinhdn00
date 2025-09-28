@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## 📊 LeetCode Stats  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhlinhdn00?theme=dark&ext=contest&ext=heatmap&site=leetcode&cache=0)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhlinhdn00?theme=dark&ext=contest&ext=heatmap)
