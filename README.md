@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## Programming
 
-### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhlinhdn00?theme=dark&ext=heatmap)
-
-### Codeforces
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=dhlinhdn00&theme=dark)
+| LeetCode | Codeforces |
+|----------|------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/dhlinhdn00?theme=dark&ext=heatmap) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=dhlinhdn00&theme=dark) |
 
