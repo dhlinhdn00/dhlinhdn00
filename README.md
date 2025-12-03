@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 ---
 
-## GitHub
-
-| Stats (Trophies) | Contributions | Activity |
-|------------------|---------------|----------|
-| ![Trophies](https://github-profile-trophy.vercel.app/?username=dhlinhdn00&theme=onedark&no-frame=true&column=3) | ![GitHub Contribution Graph](https://ghchart.rshah.org/000000/dhlinhdn00) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhlinhdn00&theme=github-dark&hide_border=true) |
+## GitHub 
+| Stats | Languages | Streak | |-------|-----------|--------| |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhlinhdn00&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhlinhdn00&layout=compact&theme=dark&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=dhlinhdn00&theme=dark&hide_border=true) |
