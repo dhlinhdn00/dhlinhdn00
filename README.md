@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 ---
 
-## GitHub 
-| Stats | Languages | Streak | |-------|-----------|--------| |
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhlinhdn00&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhlinhdn00&layout=compact&theme=dark&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=dhlinhdn00&theme=dark&hide_border=true) |
+## GitHub
+
+| Stats | Languages | Streak |
+|-------|-----------|--------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhlinhdn00&show_icons=true&theme=dark&hide_border=true&cache_seconds=7200) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhlinhdn00&layout=compact&theme=dark&hide_border=true&cache_seconds=7200) | ![GitHub Streak](https://streak-stats.demolab.com?user=dhlinhdn00&theme=dark&hide_border=true) |
+
