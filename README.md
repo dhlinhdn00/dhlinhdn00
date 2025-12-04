@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 | Stats | Languages | Streak |
 |-------|-----------|--------|
-| ![GitHub Stats](https://github-readme-stats-one-inky-45.vercel.app/api?username=dhlinhdn00&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats-one-inky-45.vercel.app/api/top-langs/?username=dhlinhdn00&layout=compact&theme=dark&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=dhlinhdn00&theme=dark&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats-one-inky-45.vercel.app/api?username=dhlinhdn00&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats-one-inky-45.vercel.app/api/top-langs/?username=dhlinhdn00&layout=compact&theme=dark&hide_border=true) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=dhlinhdn00&theme=dark&hide_border=true)](https://git.io/streak-stats) |
 
