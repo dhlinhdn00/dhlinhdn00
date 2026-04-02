@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ## TensorTonic
 
-| Progress | Repository |
-|----------|------------|
-| ![TensorTonic Progress](https://progress-bar.xyz/18/?title=Solved) | [TensorTonic Solutions](https://github.com/dhlinhdn00/TensorTonic-Solutions) |
+| Stats | Focus |
+|------|-------|
+| ![TT Stats](https://img.shields.io/badge/Problems-18-blue?style=for-the-badge&logo=ai) | ![Focus](https://img.shields.io/badge/Focus-Transformers-purple?style=for-the-badge) |
