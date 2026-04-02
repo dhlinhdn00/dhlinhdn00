@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ## TensorTonic
 
-![Solved](https://img.shields.io/badge/Solved-18-success?style=flat-square)
-![Streak](https://img.shields.io/badge/Streak-7_days-orange?style=flat-square)
-![Level](https://img.shields.io/badge/Level-Intermediate-blueviolet?style=flat-square)
+| Repository | Status |
+|------------|--------|
+| [TensorTonic Solutions](https://github.com/dhlinhdn00/TensorTonic-Solutions) | Auto-synced solutions |
