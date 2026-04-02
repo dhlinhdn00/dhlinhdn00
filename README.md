@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ## TensorTonic
 
-| Stats | Focus |
-|------|-------|
-| ![TT Stats](https://img.shields.io/badge/Problems-18-blue?style=for-the-badge&logo=ai) | ![Focus](https://img.shields.io/badge/Focus-Transformers-purple?style=for-the-badge) |
+![Solved](https://img.shields.io/badge/Solved-18-success?style=flat-square)
+![Streak](https://img.shields.io/badge/Streak-7_days-orange?style=flat-square)
+![Level](https://img.shields.io/badge/Level-Intermediate-blueviolet?style=flat-square)
